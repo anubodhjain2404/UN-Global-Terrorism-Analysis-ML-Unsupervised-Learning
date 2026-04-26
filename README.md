@@ -78,7 +78,12 @@ Unsupervised learning algorithms were applied to identify hidden severity patter
 # 📊 Power BI Dashboard
 # **Power BI Dashboard zip Link**
 https://drive.google.com/file/d/1O3TNYpaj13lUirKwaj85hzUQMdyWgvFr/view?usp=sharing
+
 The Power BI dashboard is divided into two main pages:
+
 # 📍 Page 1 — EDA Dashboard
+
+<img width="1306" height="746" alt="Screenshot 2026-04-26 110737" src="https://github.com/user-attachments/assets/7a1f4ab9-d49d-4712-bc34-f842c803f58d" />
+
 **Cards**
 
