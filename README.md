@@ -10,9 +10,10 @@ The approach combines:
 
 **PowerBI Dashboard Zip link pasted below.**
 
-# Machine Learning Workflow
+# Machine Learning Workflow and PowerBI Overview
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/81d6cf3f-eea8-472e-9b49-1a8a19645485" />
+<img width="864" height="1821" alt="image" src="https://github.com/user-attachments/assets/a97978d1-7619-4a0b-bfe6-73cde9840de9" />
+
 
 # 🎯 Business Objective
 The main goal is to support decision-making for security and policy planning.
