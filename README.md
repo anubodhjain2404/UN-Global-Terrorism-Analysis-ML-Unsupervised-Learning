@@ -32,7 +32,7 @@ Key Objectives:
 * Weapon Type
 * Terrorist group name
 
-🔍 Exploratory Data Analysis (EDA)
+# 🔍 Exploratory Data Analysis (EDA)
 **Key Insights**
 * Terrorist attacks peaked around 2014
 * Iraq and Afghanistan were the most affected countries
@@ -76,4 +76,11 @@ Unsupervised learning algorithms were applied to identify hidden severity patter
 
 
 # 📊 Power BI Dashboard
+
+**Power BI Dashboard zip Link**
+https://drive.google.com/file/d/1O3TNYpaj13lUirKwaj85hzUQMdyWgvFr/view?usp=sharing
+The Power BI dashboard is divided into two main pages:
+
+# 📍 Page 1 — EDA Dashboard
+**Cards**
 
