@@ -84,8 +84,8 @@ The Power BI dashboard is divided into two main pages:
 # 📍 Page 1 — EDA Dashboard
 
 <img width="1306" height="746" alt="Screenshot 2026-04-26 110737" src="https://github.com/user-attachments/assets/7a1f4ab9-d49d-4712-bc34-f842c803f58d" />
-/n
-**Cards**
+
+# **Cards**
 * Total Incidents
 * Total Casualties
 * Affected Countries
