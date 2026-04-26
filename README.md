@@ -8,6 +8,8 @@ The approach combines:
 * K-Means (for comparison & validation)
 * PCA → to reduce dimensionality and improve clustering performance
 
+# PowerBI Dashboard Zip link pasted below.
+
 # Machine Learning Workflow
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/81d6cf3f-eea8-472e-9b49-1a8a19645485" />
