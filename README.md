@@ -90,12 +90,12 @@ The Power BI dashboard is divided into two main pages:
 * Total Casualties
 * Affected Countries
 
-**Slicers**
+# **Slicers**
 * Countries
 * Type of attacks
 * Year
 
-**Visualizations**
+# **Visualizations**
 * Attacks per Year (Line Chart)
 * Global Attack Map
 * Top Countries (Bar Chart)
@@ -103,3 +103,59 @@ The Power BI dashboard is divided into two main pages:
 * Region-wise Analysis
 
 # 📍 Page 2 — Machine Learning Dashboard
+
+<img width="1308" height="742" alt="Screenshot 2026-04-26 110856" src="https://github.com/user-attachments/assets/4779a93c-d52e-4589-994b-8d7efa7af3c1" />
+
+# **Slicers**
+* Countries
+* Region
+
+# **Visualizations**
+* Global Attack Hotspot Map
+* Top Regions (Column Chart)
+* Type of Attacks (Bar Chart)
+* Total Attacks (Cluster based)
+
+# 📈 Machine Learning Insights
+* Terrorism incidents are not random
+* They are concentrated in specific hotspots
+* Some areas consistently show high activity
+* There are rare isolated attacks (outliers)
+* Patterns are irregular and complex
+
+# 🛠️ Technologies Used
+**Programming**
+* Python
+* Pandas
+* NumPy
+
+**Machine Learning**
+* KMeans
+* PCA
+* DBSCAN
+
+**Visualization**
+* Matplotlib
+* Seaborn
+* Power BI
+
+# 🚀 Key Achievement
+* DBSCAN identifies natural terrorism hotspots on maps
+* Activities are clustered, not random
+* Noise points represent isolated incidents
+* K-Means gives forced clusters; DBSCAN is more accurate
+* Power BI dashboard enables interactive maps and filters
+* Hotspots change over time (dynamic patterns)
+* Some regions show high frequency, others high severity
+* Attack patterns vary by region
+* Overall, dashboard converts ML output into clear, actionable insights
+
+# 📌 Conclusion
+* Hotspots detected using unsupervised learning (no predefined clusters)
+* DBSCAN is best: handles noise + finds natural clusters
+* K-Means is less effective due to fixed clusters
+* Power BI makes insights visual and interactive
+* Terrorism is concentrated and dynamic
+* Requires continuous monitoring
+* Helps in resource allocation, risk analysis, and planning
+* Final: ML + Power BI creates a strong decision-support system
