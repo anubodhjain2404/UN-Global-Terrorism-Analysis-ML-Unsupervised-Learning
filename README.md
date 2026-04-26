@@ -1,4 +1,4 @@
-# UN-Global-Terrorism-Analysis-ML-Unsupervised-Learning
+# UN Global Terrorism Analysis ML Unsupervised Learning and PowerBI Dashboard
 
 # 📌 Project Overview
 This project presents a comprehensive analysis of global terrorism incidents using unsupervised machine learning and interactive Power BI dashboards. This project focuses on identifying terrorism-prone geographical regions (hotspots) using unsupervised machine learning techniques. Instead of manually defining how many clusters (regions) exist, the system automatically detects natural groupings in the data.
