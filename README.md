@@ -12,7 +12,7 @@ The approach combines:
 
 # Machine Learning Workflow and PowerBI Overview
 
-<img width="999" height="1821" alt="image" src="https://github.com/user-attachments/assets/a97978d1-7619-4a0b-bfe6-73cde9840de9" />
+<img width="1001" height="1821" alt="image" src="https://github.com/user-attachments/assets/a97978d1-7619-4a0b-bfe6-73cde9840de9" />
 
 
 # 🎯 Business Objective
